@@ -19,37 +19,95 @@
 
 ---
 
-## ⚡ Key Features
+## 🚀 Features
 
-- 👨‍💼 **Admin Panel**: Secure dashboard to manage elections and candidates  
-- 🙋‍♂️ **Voter Registration/Login**: Authenticate voters securely  
-- 🔐 **One Vote System**: Vote once — backend enforces it  
-- 📈 **Live Results**: Real-time vote counts and results  
-- 🧾 **Logs & Sessions**: Maintains secure sessions and logs  
-- 📦 **Modular Code**: Easy to understand and extend
+- 🧑‍💼 Admin login and dashboard  
+- 🙋‍♂️ Voter registration and authentication  
+- ✅ Secure voting mechanism (one vote per user)  
+- 📊 Real-time vote count and results display  
+- 🗂️ Candidate management  
+- 🔒 Session and access control  
+- 🧾 Easy to install and run with minimal dependencies
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technologies Used
 
 | Frontend   | Backend | Database | Server  |
 |------------|---------|----------|---------|
-| HTML, CSS, JS | PHP     | MySQL    | XAMPP/WAMP |
+| HTML, CSS, JS | PHP     | MySQL    | XAMPP/WAMP/LAMP |
 
 ---
 
-## 🛠️ Setup Instructions
+## 🧰 Requirements
 
-1. 🔽 Download or clone the repo.
-2. 📁 Move the folder to `htdocs` (XAMPP) or `www` (WAMP).
-3. 🧑‍💻 Start Apache & MySQL from XAMPP Control Panel.
-4. 🛢️ Create a DB named: `online_voting`
-5. 📤 Import SQL file from `/database/online_voting.sql`
+- XAMPP / WAMP / LAMP Server  
+- Web browser (Chrome, Edge, etc.)  
+- PHP 7.x or higher  
+- MySQL installed  
+
+---
+
+## ⚙️ Setup Instructions
+
+1. 🔽 Download or clone the repo.  
+2. 📁 Move the folder to the `htdocs` (XAMPP) or `www` (WAMP) directory.  
+3. 🧑‍💻 Start **Apache** and **MySQL** via XAMPP Control Panel.  
+4. 🛢️ Create a MySQL database named: `online_voting`  
+5. 📤 Import SQL file from `database/online_voting.sql`  
 6. 🌐 Visit: `http://localhost/Online-Voting-System`
 
 ---
 
-## 🔐 Admin Login
-
-Username: admin
+## 🔐 Admin Credentials
+Username: admin <br>
 Password: admin123
+
+---
+
+
+> 📝 You can update credentials in the database or admin login PHP file.
+
+---
+
+## 📁 Folder Structure
+
+
+---
+
+## 📷 Screenshots
+
+> _(Add your screenshots in the `images/` folder and embed here)_
+
+- ✅ Admin Dashboard  
+- ✅ Voter Login Interface  
+- ✅ Live Result Page  
+
+---
+
+## 🙌 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is **open-source** and available under the [MIT License](LICENSE).  
+Use it freely in your college, personal, or client projects.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Sahil Kumar Shaw**
+
+🔗 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/sahil-kumar-502a39261/)  
+- [Email](mailto:sahilcoomar7@gmai.com)
+
+---
+
+> ⭐ Star the repo if you liked it — and share it with friends working on similar projects!
+
